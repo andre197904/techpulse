@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://techpulse.idavirukomp.ee/sitemap.xml
